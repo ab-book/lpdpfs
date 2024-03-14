@@ -1,0 +1,4 @@
+1. Python安装包（有sklearn，dlib等） 
+2. pycharm
+剩下的工具包通过pip install命令来安装
+比如jupyter notebook,tensorflow,keras
